@@ -29,7 +29,7 @@
 
 <p align='center'>
   🎖 My Achievments<br/><br/>
-  ![acquia_certification_badge_developer_drupal_10](https://github.com/user-attachments/assets/8b4dab24-0c96-4cdd-9142-6e413fccf41b)
+  ![image](https://github.com/user-attachments/assets/8b4dab24-0c96-4cdd-9142-6e413fccf41b)
 </p>
 
 
