@@ -42,5 +42,5 @@
 </p>
 
 <p align='center'>
-  <strong>Thank you</strong>
+  <strong>Thank you !</strong>
 </p>
