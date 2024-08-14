@@ -19,7 +19,7 @@
  <p/>
 
 <p align='center'>
-  💻 My Tech stacks<br/><br/>
+  💻 <strong>My Tech stacks</strong><br/><br/>
   <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" />
@@ -28,13 +28,10 @@
 </p>
 
 <p align='center'>
-  🎖 My Achievments<br/><br/>
+  🎖 <strong>My Achievments</strong><br/><br/>
   <img src="https://www.drupal.org/files/issues/2023-06-13/Acquia%20Certification%20Badge_Developer_Drupal%2010.png" />
 </p>
 
 <p align='center'>
   📫 How to reach me: <a href='mailto:jagraj3101work@gmail.com'>jagraj3101work@gmail.com</a>
 </p>
-
-  
-
