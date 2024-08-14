@@ -36,5 +36,5 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:jagraj3101work@gmail.com'>jagraj3101work@gmail.com</a>
+  📫 How to reach me: <a href='mailto:jagraj3101work@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
