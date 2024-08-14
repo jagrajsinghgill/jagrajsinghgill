@@ -36,7 +36,7 @@
 </p>
 
 <p align='center'>
-  📫 How to reach me: <a href='mailto:jagraj3101work@gmail.com'><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/jagraj-singh-gill">
+  📫 How to reach me: <a href="mailto:jagraj3101work@gmail.com" style="text-decoration:none;"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a><a href="https://www.linkedin.com/in/jagraj-singh-gill" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a
 </p>
