@@ -32,6 +32,9 @@
   <img src="https://www.drupal.org/files/issues/2023-06-13/Acquia%20Certification%20Badge_Developer_Drupal%2010.png" />
 </p>
 
+<p align='center'>
+  📫 How to reach me: <a href='mailto:jagraj3101work@gmail.com'>jagraj3101work@gmail.com</a>
+</p>
 
   
 
