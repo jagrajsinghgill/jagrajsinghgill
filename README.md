@@ -13,6 +13,9 @@
   <a href="https://www.drupal.org/u/jagraj_singh_gill" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />        
   </a>&nbsp;&nbsp;
+  <a href="https://drupal.stackexchange.com/users/114979/jagraj-singh-gill" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/StackExchange-1E5397?&style=for-the-badge&logo=StackExchange&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 </p>
 
  <p align='center'>A seasoned Software Engineer with over 6 years of experience specializing in Drupal. My expertise lies in building robust and scalable web solutions using Drupal, and I'm proud to be an Acquia Certified Developer in Drupal 10. My journey in software development has been driven by a passion for crafting efficient, maintainable, and user-centric applications. I continuously strive to stay updated with the latest trends and best practices in the industry to deliver top-notch solutions.
