@@ -7,11 +7,11 @@
 </p>
 
 <p align='center'>
-  <a href="https://www.drupal.org/u/jagraj_singh_gill">
-    <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/jagraj-singh-gill">
+  <a href="https://www.linkedin.com/in/jagraj-singh-gill" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://www.drupal.org/u/jagraj_singh_gill" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Drupal-0678BE?style=for-the-badge&logo=drupal&logoColor=white" />        
   </a>&nbsp;&nbsp;
 </p>
 
