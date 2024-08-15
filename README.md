@@ -28,6 +28,7 @@
   <img src="https://img.shields.io/badge/contentful-2478CC?style=for-the-badge&logo=contentful&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://avatars.githubusercontent.com/u/31605584?s=48&v=4" />
 </p>
 
 <p align='center'>
