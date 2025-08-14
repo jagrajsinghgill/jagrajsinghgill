@@ -18,7 +18,7 @@
   </a>&nbsp;&nbsp;
 </p>
 
- <p align='center'>A seasoned Software Engineer with over 6 years of experience specializing in Drupal. My expertise lies in building robust and scalable web solutions using Drupal, and I'm proud to be an Acquia Certified Developer in Drupal 10. My journey in software development has been driven by a passion for crafting efficient, maintainable, and user-centric applications. I continuously strive to stay updated with the latest trends and best practices in the industry to deliver top-notch solutions.
+ <p align='center'>A seasoned Software Engineer with over 7 years of experience specializing in Drupal. My expertise lies in building robust and scalable web solutions using Drupal, and I'm proud to be an Acquia Certified Developer in Drupal 10. My journey in software development has been driven by a passion for crafting efficient, maintainable, and user-centric applications. I continuously strive to stay updated with the latest trends and best practices in the industry to deliver top-notch solutions.
  <p/>
 
 <p align='center'>
@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white" />
+  <img src="https://img.shields.io/badge/Strapi-royalblue?style=for-the-badge&logo=strapi" />
 </p>
 
 <p align='center'>
